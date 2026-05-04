@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mcp-filesystem": {
+      "command": "/root/.local/bin/mcp-filesystem",
+      "args": ["/sdcard/Download/白写的小玩意儿", "/sdcard/Download", "/root"],
+      "disabled": false
+    },
+    "browser-use": {
+      "command": "/root/.local/bin/browser-use",
+      "args": ["--mcp"],
+      "disabled": false
+    }
+  }
+}
