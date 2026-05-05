@@ -1,0 +1,6 @@
+"shiro_memory": {
+  "command": "node",
+  "args": ["index.js"],
+  "autoApprove": ["mem_save","mem_search","mem_context","mem_update","mem_delete","mem_stats"],
+  "disabled": false
+}
